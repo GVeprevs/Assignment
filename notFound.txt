@@ -1,0 +1,6 @@
+No items could be found based on the tracking code.
+The reason could be one of the following:
+Typing error. Please check the tracking code.
+Enter the code without spaces and search only one code at a time.
+Posti is still waiting the item to be registered or to be left for transport. Please try again later.
+The item was shipped more than 2.5 months ago.
